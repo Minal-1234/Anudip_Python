@@ -1,0 +1,20 @@
+Data Types -> It specifies the type of the data.
+numeric -> integer,floating point, boolean,complex
+sequence type -> string,tuple,list,dictionary,set.
+
+Bitwise AND -> &  
+	OR -> |
+	XOR -> ^ 
+	NOT ->!
+Left shift operator -> <<
+Right shift operator -> >>
+
+a=8
+ 00001000
+a<<3; 01000000  -> 64 
+multiply the number by 2 'n' times.
+
+a=32
+a>>2;
+
+divide the number by 2 'n' times.
